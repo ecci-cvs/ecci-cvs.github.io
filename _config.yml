@@ -1,0 +1,29 @@
+# Jekyll Defaults
+title: ECCI
+description: Edinburgh Computational Cardiovascular Imaging research group website.
+baseurl: ""
+
+url: "https://ecci-cvs.github.io/"
+github: http://github.com/ecci-cvs/ecci-svs.github.io
+highlighter: rouge
+markdown: kramdown
+permalink: /post/:title/
+paginate: 4
+gems: [jekyll-paginate]
+paginate_path: "/page:num"
+rss_path: /feed.xml
+navigation:
+- text: Vision
+  url: /
+- text: The Team
+  url: /theteam/
+- text: Job Opportunities
+  url: /jobs/
+- text: Datasets
+  url: /datasets/
+- text: Software
+  url: /software/
+- text: Research
+  url: /research/
+- text: Contact Us
+  url: /contact/
