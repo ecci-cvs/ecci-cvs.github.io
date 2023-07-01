@@ -18,14 +18,14 @@ paginate_path: "/research/page:num"
 rss_path: /feed.xml
 navigation:
 - text: The Team
-  url: /team/
+  url: team/
 - text: Jobs
-  url: /jobs/
+  url: jobs/
 - text: Datasets
-  url: /datasets/
+  url: datasets/
 - text: Software
-  url: /software/
+  url: software/
 - text: Research
-  url: /research/
+  url: research/
 - text: Contact Us
-  url: /contact/
+  url: contact/
