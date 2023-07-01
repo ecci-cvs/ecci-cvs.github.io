@@ -72,11 +72,11 @@ nav {
 nav ul li {
     display: inline;
     color: #9f9f9f;
-	font-size: 105%;
+    font-size: 105%;
 }
 nav ul li a {
     color: #324787;
-    padding: 8px 9px;
+    padding: 8px 4px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
 }
@@ -87,7 +87,7 @@ nav ul li a:hover {
 .heading {
     font: 1.5em Raleway, Helvetica;
     text-transform: uppercase;
-    margin-top: 1.2em;
+    margin-top: 0.3em;
     margin-bottom: 1.3em;
 }
 .heading a {
@@ -306,7 +306,7 @@ code {
 }
 @media (min-width: 704px) {
 
-    #main {
+    #main, footer {
         width: 640px;
         margin-left: auto;
         margin-right: auto;
