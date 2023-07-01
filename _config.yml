@@ -1,9 +1,9 @@
 # Jekyll Defaults
 title: ECCI
 description: Edinburgh Computational Cardiovascular Imaging research group website.
-baseurl: "/"
+baseurl: ""
 
-url: "https://ecci-cvs.github.io/"
+url: "https://ecci-cvs.github.io"
 github: http://github.com/ecci-cvs/ecci-svs.github.io
 highlighter: rouge
 markdown: kramdown
@@ -18,14 +18,14 @@ paginate_path: "/research/page:num"
 rss_path: /feed.xml
 navigation:
 - text: The Team
-  url: team/
+  url: /team/
 - text: Jobs
-  url: jobs/
+  url: /jobs/
 - text: Datasets
-  url: datasets/
+  url: /datasets/
 - text: Software
-  url: software/
+  url: /software/
 - text: Research
-  url: research/
+  url: /research/
 - text: Contact Us
-  url: contact/
+  url: /contact/
