@@ -71,7 +71,8 @@ nav {
 	margin-top: -15px;
 }
 nav ul li {
-    display: inline;
+    display: inline-block;
+    white-space: nowrap;
     color: #9f9f9f;
     font-size: 105%;
 }
