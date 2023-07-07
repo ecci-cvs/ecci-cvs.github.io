@@ -4,24 +4,16 @@ title: Research highlights
 ---
 <div id="home">
 <ul class="posts">
-<section id="archive">
+<section id="articles">
 
-  {% for post in site.posts %}
-<ul>
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-      {% endif %}
-    {% endunless %}
+{% for post in site.research %}
+<div class="article">
+    <img src="{{ post.img }}" />
+    <span class="date">{{ post.type }} · {{ post.year }}</span>
 
-    <li><span>{{ post.date | date:"%d %b" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <br>
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
-    <span class="details">{{ post.content | number_of_words }} words </span>{% include tags.html %}
-
-            </ul>
-  {% endfor %}
+    <p class="short">{{ post.short }}</p>
+</div>
+{% endfor %}
 </section>

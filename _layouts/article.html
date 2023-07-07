@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article>
+<img src="{{ page.img }}" />
+<p class="meta"><a class="permalink" href="{{ site.baseurl }}{{ post.url }}">&#9679;</a> {{ page.type }} · {{ page.year }}</p>
+{{ content }}
+{% include tags.html %}
+</article>

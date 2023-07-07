@@ -9,6 +9,10 @@ highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
 
+collections:
+  research:
+    output: true
+
 gems: [jekyll-paginate]
 plugins:
   [jekyll-paginate]
