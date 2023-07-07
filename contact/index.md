@@ -3,5 +3,4 @@ layout: default
 title: Contact us
 ---
 
-TODO
-
+For more information contact xxx.
