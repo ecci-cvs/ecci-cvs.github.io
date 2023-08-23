@@ -13,4 +13,3 @@ Our research involves multi-modality cardiovascular imaging, electroanatomical m
 ![](/img/vision1.png)
 ![](/img/vision2.png)
 
-> TODO twitter feed
