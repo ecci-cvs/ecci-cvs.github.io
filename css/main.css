@@ -31,7 +31,6 @@ h6 {
     line-height: 1.6em;
 }
 header {
-    padding-bottom: 20px;
     padding-top: 20px;
 }
 header h1 {
@@ -40,17 +39,15 @@ header h1 {
     font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
     text-transform: lowercase;
     margin-left: 45px;
-    margin-top: 20px;
     padding-bottom: 1.3em;
 }
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #0f2e57;
-    padding: 10px 13px;
+    text-decoration: none;
 }
-header h1 a:hover {
-    color: #76a0dd;
+header h1 img {
+    height: 110px;
 }
 #nav_container {
     margin-left: auto;
@@ -67,8 +64,9 @@ nav {
     font-family: -apple-system, Roboto, Helvetica, Arial;
     text-transform: uppercase;
     margin-left: -43px;
-	margin-bottom: -20px;
-	margin-top: -15px;
+}
+nav ul {
+    margin: -20px 20px 20px 20px;
 }
 nav ul li {
     display: inline-block;
