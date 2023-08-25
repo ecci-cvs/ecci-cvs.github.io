@@ -13,6 +13,7 @@ Dr Steven Williams is a British Heart Foundation Intermediate Clinical Research 
 
 University of Edinburgh profile: https://www.ed.ac.uk/profile/steven-williams
 
+
 ### Dr Michelle Williams
 
 <img src="/img/team-michelle.jpeg" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
