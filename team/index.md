@@ -15,11 +15,11 @@ University of Edinburgh profile: https://www.ed.ac.uk/profile/steven-williams
 
 <br>
 
-### Dr Michelle Williams
+### Professor Michelle Williams
 
 <img src="/img/team-michelle.jpeg" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
 
-Dr Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radiology Consultant at the University of Edinburgh and NHS Lothian. She is Associate Director of the British Heart Foundation Data Science Centre and is the Imaging theme lead. Her research centers around multi-modality non-invasive imaging of the heart and blood vessels, including using machine learning and other advanced analytic techniques. She is president elect of British Society of Cardiovascular Imaging, member of the executive community of the European Society of Cardiovascular Radiology, and member of the Board of Directors of the Society of Cardiovascular Computed Tomography. 
+Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radiology Consultant at the University of Edinburgh and NHS Lothian. She is Associate Director of the British Heart Foundation Data Science Centre and is the Imaging theme lead. Her research centers around multi-modality non-invasive imaging of the heart and blood vessels, including using machine learning and other advanced analytic techniques. She is president elect of British Society of Cardiovascular Imaging, member of the executive community of the European Society of Cardiovascular Radiology, and member of the Board of Directors of the Society of Cardiovascular Computed Tomography. 
 
 **Publications:** https://www.research.ed.ac.uk/en/persons/michelle-williams/publications/
 
