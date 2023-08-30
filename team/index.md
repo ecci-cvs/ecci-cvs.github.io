@@ -13,7 +13,7 @@ Dr Steven Williams is a British Heart Foundation Intermediate Clinical Research 
 
 [University of Edinburgh profile](https://www.ed.ac.uk/profile/steven-williams)
 
-<br>
+<div style="clear: both"></div>
 
 ### Professor Michelle Williams
 
@@ -25,12 +25,17 @@ Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radi
 [University of Edinburgh profile](https://www.ed.ac.uk/profile/michelle-williams) |
 [Google scholar profile](https://scholar.google.co.uk/citations?user=ga_3UAgAAAAJ&hl=en)
 
+<div style="clear: both"></div>
 
 ### Dr Ali Gharaviri
 
 [University of Edinburgh profile](https://www.ed.ac.uk/profile/ali-gharaviri)
 
+<div style="clear: both"></div>
+
 ### Dr Keeran Vicknesson
+
+<div style="clear: both"></div>
 
 ## Alumni
 
@@ -38,6 +43,8 @@ Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radi
 
 Project title: Investigating the effects of antiarrhythmic drugs on atrial fibrillation complexity using a novel computational modeling pipeline 
 Degree: BSc Hons Medical Sciences (2019-2023)
+
+<div style="clear: both"></div>
 
 ### Rebecca Conway
 
