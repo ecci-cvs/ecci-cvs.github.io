@@ -12,7 +12,7 @@ Our research involves multi-modality cardiovascular imaging, electroanatomical m
 
 <img 
   sizes="(max-width: 600px) 480px,
-        800px"
+        200px"
   src="/img/vision1.png"
   at="Vision 1 image" />
   
