@@ -10,7 +10,7 @@ The ECCI group, in the Centre for Cardiovascular Science at the University of Ed
 
 Our research involves multi-modality cardiovascular imaging, electroanatomical mapping, computational modelling, machine learning/artificial intelligence and ‘big data’ health data science. We are committed to cross-disciplinary working and open science research. 
 
-<img src="/img/vision1.png" style="width:100pt;" />
+<img src="/img/vision1.png" style="width:50%;" />
 
 <div style="clear: both"></div>
 
