@@ -27,17 +27,26 @@ Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radi
 
 <div style="clear: both"></div>
 
+### Dr Keeran Vicknesson
+
+<div style="clear: both"></div>
+
+### Alan Ranieri M Guimarães
+
+I have been developing algorithms for health sciences applications since 2014, with a strong focus on image processing, particularly for CT scans. My core expertise includes artificial neural networks, convolutional neural networks, and advanced image analysis techniques.
+
+
+[Loop profile](https://loop.frontiersin.org/people/1056398/overview)
+<div style="clear: both"></div>
+
+
+## Alumni
+
 ### Dr Ali Gharaviri
 
 [University of Edinburgh profile](https://www.ed.ac.uk/profile/ali-gharaviri)
 
 <div style="clear: both"></div>
-
-### Dr Keeran Vicknesson
-
-<div style="clear: both"></div>
-
-## Alumni
 
 ### Gerda Kazakeviciute
 
