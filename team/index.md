@@ -31,10 +31,10 @@ Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radi
 
 <div style="clear: both"></div>
 
+
 ### Alan Ranieri M Guimarães
 
 I have been developing algorithms for health sciences applications since 2014, with a strong focus on image processing, particularly for CT scans. My core expertise includes artificial neural networks, convolutional neural networks, and advanced image analysis techniques.
-
 
 [Loop profile](https://loop.frontiersin.org/people/1056398/overview)
 <div style="clear: both"></div>
@@ -47,33 +47,3 @@ I have been developing algorithms for health sciences applications since 2014, w
 [University of Edinburgh profile](https://www.ed.ac.uk/profile/ali-gharaviri)
 
 <div style="clear: both"></div>
-
-### Gerda Kazakeviciute
-
-Project title: Investigating the effects of antiarrhythmic drugs on atrial fibrillation complexity using a novel computational modeling pipeline 
-Degree: BSc Hons Medical Sciences (2019-2023)
-
-<div style="clear: both"></div>
-
-### Rebecca Conway
-
-<img src="/img/team-rebecca.png" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
-
-Project title: Investigating the effects of anti-arrhythmic drugs in the treatment of atrial fibrillation in heart failure patients.
-
-Degree: Biomedical Science with Honours in Pharmacology (January – April 2023)
-
-<div style="clear: both"></div>
-
-### Heen Shamaz
-
-<img src="/img/team-heen.png" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
-
-Project title: Identifying mechanisms of atrial fibrillation in atrial septal defect patients using computational modelling.
- Degree: Batchelor of Medical Sciences (January – April 2023)
-
-<div style="clear: both"></div>
-
-### Hesham Zalghana
-
-Degree: Batchelor of Medical Sciences (January – April 2023)
