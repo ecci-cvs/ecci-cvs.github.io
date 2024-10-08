@@ -28,14 +28,17 @@ Professor Michelle Williams is a is a Clinical Senior Lecturer and Honorary Radi
 <div style="clear: both"></div>
 
 ### Alan Ranieri M Guimarães
-
-I have been developing algorithms for health sciences applications since 2014, with a strong focus on image processing, particularly for CT scans. My core expertise includes artificial neural networks, convolutional neural networks, and advanced image analysis techniques.
+Research Fellow in Computational Cardiac Imaging, I have been developing algorithms for health sciences applications since 2014, with a strong focus on image processing, particularly for CT scans. My core expertise includes artificial neural networks, convolutional neural networks, and advanced image analysis techniques.
 
 [Loop profile](https://loop.frontiersin.org/people/1056398/overview)
 <div style="clear: both"></div>
 
 
 ### Dr Keeran Vicknesson
+
+<img src="/img/team-keeran.jpeg" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
+
+Dr Keeran Vickneson is an Internal Medicine Trainee in NHS Lothian and previously an academic foundation doctor in University of Edinburgh. His research interests are centred around clinical electrophysiology and cardiac imaging. His skill set incorporates 3D cardiovascular CT segmentation using Seg3D2 and CEMRG, cardiac electrophysiology data analysis using openEP, and statistical analysis using R. 
 
 <div style="clear: both"></div>
 
