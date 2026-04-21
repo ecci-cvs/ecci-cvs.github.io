@@ -5,16 +5,6 @@ title: The team
 
 ## Team Members
 
-### Dr Steven Williams
-
-<img src="/img/team-steven.png" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
-
-Dr Steven Williams is a British Heart Foundation Intermediate Clinical Research Fellow, at the University of Edinburgh. Dr Williams’ research interest lie at the interface of clinical electrophysiology, imaging sciences and computational modelling and aims to integrate electrical, anatomical and functional data in order to improve the characterisation, representation and modification of arrhythmia substrates. Working across clinical and engineering disciplines Dr Williams’ skill set incorporates cardiac electrophysiology, cardiac imaging, computer modelling and software engineering. Dr Williams’ is passionate about open science and is the founder of OpenEP (<https://openep.io>), the open source solution for electrophysiology data analysis. 
-
-[University of Edinburgh profile](https://www.ed.ac.uk/profile/steven-williams)
-
-<div style="clear: both"></div>
-
 ### Professor Michelle Williams
 
 <img src="/img/team-michelle.jpeg" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
@@ -33,6 +23,15 @@ Research Fellow in Computational Cardiac Imaging, I have been developing algorit
 [Loop profile](https://loop.frontiersin.org/people/1056398/overview)
 <div style="clear: both"></div>
 
+### Dr Steven Williams
+
+<img src="/img/team-steven.png" style="width: 100pt; float: left; margin-right: 10pt; margin-bottom: 10pt;" />
+
+Dr Steven Williams is a British Heart Foundation Intermediate Clinical Research Fellow, at the University of Edinburgh. Dr Williams’ research interest lie at the interface of clinical electrophysiology, imaging sciences and computational modelling and aims to integrate electrical, anatomical and functional data in order to improve the characterisation, representation and modification of arrhythmia substrates. Working across clinical and engineering disciplines Dr Williams’ skill set incorporates cardiac electrophysiology, cardiac imaging, computer modelling and software engineering. Dr Williams’ is passionate about open science and is the founder of OpenEP (<https://openep.io>), the open source solution for electrophysiology data analysis. 
+
+[University of Edinburgh profile](https://www.ed.ac.uk/profile/steven-williams)
+
+<div style="clear: both"></div>
 
 ### Dr Keeran Vicknesson
 
